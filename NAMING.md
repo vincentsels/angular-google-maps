@@ -29,3 +29,4 @@ Methods and functions:
 Constants
   - Example: `CORE_DIRECTIVES`
   - Should be all uppercase with SNAKE_CASE
+  
